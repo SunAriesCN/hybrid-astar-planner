@@ -18,4 +18,4 @@ public:
     void runDijkstra();
 };
 
-#endif COMPARE_HPP
+#endif //COMPARE_HPP
